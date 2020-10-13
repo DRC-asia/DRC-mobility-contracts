@@ -1,9 +1,9 @@
 const fs = require("fs");
-// let privateKey = fs
-//   //.readFileSync(".secret_" + process.env.NETWORK)
-//   .readFileSync(".secret_" + process.env.NETWORK)
-//   .toString()
-//   .trim();
+let privateKey = fs
+  //.readFileSync(".secret_" + process.env.NETWORK)
+  .readFileSync(".secret_" + process.env.NETWORK)
+  .toString()
+  .trim();
 
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
 
@@ -15,10 +15,7 @@ const fs = require("fs");
 //   );
 
 const HDWalletProvider = require("truffle-hdwallet-provider-privkey");
-//const privKeys = [privateKey]; // private keys
-const privKeys = [
-  "f5bbbc9c78aecd8493e7f7378b35db2b1e7397a59097fcf5c682ad69f9c57c72",
-]; // private keys
+const privKeys = [privateKey]; // private keys
 
 const providerFactory4Ethereum = new HDWalletProvider(
   privKeys,
