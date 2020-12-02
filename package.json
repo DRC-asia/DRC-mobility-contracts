@@ -1,7 +1,7 @@
 {
-  "name": "dream-car-contracts",
+  "name": "DRC-mobility-contracts",
   "version": "1.0.0",
-  "description": "Dream Car Smart Contract",
+  "description": "DRC mobility Smart Contract",
   "main": "truffle.js",
   "directories": {
     "test": "test"
