@@ -2,7 +2,7 @@
 
 nvm use v9.5.0
 
-Smart-contracts for Dream Car platform
+Smart-contracts for DRC mobility platform
 
 ## Deployment - Ethereum
 
