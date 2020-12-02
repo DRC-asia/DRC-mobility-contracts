@@ -32,7 +32,7 @@ Smart-contracts for DRC mobility platform
 
 - test : https://remix.ethereum.org/
 
-## dream car token address
+## DRC mobility token address
 
 > rospten : 0x2A68b2D440dEbEA57174159eE4F9D64FcF18BeCC
 > mainnet : https://etherscan.io/token/0xd7f5cabdf696d7d1bf384d7688926a4bdb092c67
