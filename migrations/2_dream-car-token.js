@@ -2,7 +2,7 @@ const DreamCarToken = artifacts.require("./DreamCarToken.sol");
 const DreamCarCrowdsale = artifacts.require("./DreamCarCrowdsale.sol");
 const DreamCarAirdrop = artifacts.require("./DreamCarAirdrop.sol");
 
-const name = "DreamCar";
+const name = "DRCmobility";
 const symbol = "DRC";
 const decimals = 18;
 const initialSupply = 1000000000;
