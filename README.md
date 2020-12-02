@@ -1,4 +1,4 @@
-# dream-car-contracts
+# DRC-mobility-contracts
 
 nvm use v9.5.0
 
