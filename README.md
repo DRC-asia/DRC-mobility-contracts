@@ -39,5 +39,5 @@ Smart-contracts for DRC mobility platform
 
 ## Security Audit
 
-- [AuditReport by Hexlant](./AuditReport/HEX_ContractAudit_DRC_KR.pdf)
-- [AuditReport by SlowMist](./AuditReport/Smart Contract Security Audit Report - DRC.pdf)
+- [AuditReport by Hexlant](./audit_report/AuditReport_Hexlant.pdf)
+- [AuditReport by SlowMist](./audit_report/AuditReport_SlowMist.pdf)
